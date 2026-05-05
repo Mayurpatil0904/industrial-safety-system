@@ -59,8 +59,7 @@ The system ensures that entry is allowed only when conditions are safe, helping 
 
 **Mayur Patil**
 
----
 
-## 🔗 Project Video
 
-(Add your LinkedIn video link here)
+
+
