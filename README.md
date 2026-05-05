@@ -39,11 +39,6 @@ The system ensures that entry is allowed only when conditions are safe, helping 
 4. If unsafe → access is blocked + buzzer alert
 5. Emergency button allows exit anytime
 
----
-
-## 📷 Project Preview
-
-(Add your project image here)
 
 ---
 
